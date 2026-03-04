@@ -87,9 +87,9 @@ Menghapus record pengguna secara permanen dari sistem berdasarkan parameter ID.
 ### Antarmuka Web (Frontend)
 
 Berikut adalah tampilan halaman manajemen user saat diakses melalui browser:
-<img width="1920" height="1200" alt="image" src="[https://github.com/user-attachments/assets/b0625fd3-41eb-4431-8fb7-f8f9b73ad0dc](https://github.com/user-attachments/assets/b0625fd3-41eb-4431-8fb7-f8f9b73ad0dc)" />
+<<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/06a4a043-617a-4e10-adbb-aad879861117" />
 
 ### Struktur Database (MySQL)
 
 Representasi data yang tersimpan pada tabel `users` di database:
-<img width="1920" height="1200" alt="image" src="[https://github.com/user-attachments/assets/aa8e558b-ad34-4301-8a3c-ff01a80677e7](https://github.com/user-attachments/assets/aa8e558b-ad34-4301-8a3c-ff01a80677e7)" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/aa8e558b-ad34-4301-8a3c-ff01a80677e7"/>
